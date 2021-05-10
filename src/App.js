@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './eclanding.png';
 import './App.css';
 
 function App() {
@@ -7,15 +7,16 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          
         </p>
+        <br></br>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="http://www.empyrean.meleeconvergent.com/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Empyrean Casino
         </a>
       </header>
     </div>
